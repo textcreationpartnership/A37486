@@ -1,0 +1,1466 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Delectable little history in metre of a lord and his three sons, containing his latter will and legacy to them upon his death-bed, and what befell them after his death, especially the midmost and the youngest.</title>
+         </titleStmt>
+         <extent>Approx. 44 KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A37486</idno><idno type="EEBO-CITATION">12330062</idno>
+  <idno type="VID">59629</idno>
+  <idno type="EEBO-PROQUEST">2240970584</idno>
+  
+            <idno type="STC">Wing D900</idno>
+            <idno type="STC">ESTC R9640</idno>
+            <idno type="OCLC">12330062</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A37486)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 59629)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 207:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Delectable little history in metre of a lord and his three sons, containing his latter will and legacy to them upon his death-bed, and what befell them after his death, especially the midmost and the youngest.</title>
+               </titleStmt>
+               <editionStmt>
+                  <edition>Revised, corrected and amended,</edition>
+               </editionStmt>
+               <extent>24 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>Edinburgh :</pubPlace>
+                  <date>1698.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2015-01 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2015-01 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:59629:1"/>
+            <pb facs="tcp:59629:1"/>
+            <p>
+               <hi>A</hi> DELECTABLE <hi>LITTLE HISTORY IN METRE:</hi>
+            </p>
+            <p>Of a Lord and his three Sons, containing his Latter-will and Legacy to them upon his death-bed, and what befell them after his death, especially the midmost and the youngest.</p>
+            <p>Revised, Corrected, and amended, for the use of Schools,</p>
+            <q>
+               <p>Omne tulit punctam qui miscuit utile dulci.</p>
+            </q>
+            <q>
+               <l>He gotten has all commendation,</l>
+               <l>Who profite has with pleasure mixt in one.</l>
+            </q>
+            <p>Edinburgh, <hi>Printed in the year, 1698.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb n="2" facs="tcp:59629:2"/>
+            <head>
+               <hi>A Delectable little HISTORY IN METRE:</hi> Of a Lord and his three Sons, containing his Latter-will and Legacy to them upon <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>his death-bed, and what befell them after his death, especially the midmost and the youngest.</head>
+            <lg>
+               <l>HEar auditors a noble tale,</l>
+               <l>This waiting shews it wondrous well;</l>
+               <l>And as mine author does record.</l>
+               <l>Vpon a time there was a Lord</l>
+               <l>Of high renown, and far more of degree,</l>
+               <l>Had no bair<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s but only sons three.</l>
+               <l>This noble Lord of high parentage</l>
+               <l>Throw cruel sickness he died of age;</l>
+               <l>At th'end of his life near hand by,</l>
+               <l>This Lord on death-bed could he ly.</l>
+               <l>This noble Lord withoutten mair,</l>
+               <l>Said fetch to me my son and heir:</l>
+               <l>Who came to him right hastilie,</l>
+               <l>And halsed him right reverentlie.</l>
+               <l>He said dear fa<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>her, how do ye?</l>
+               <l>What man of craft thinks thou to be?</l>
+               <l>The child answered his father till,</l>
+               <l>What ye command I shall fulfil;</l>
+               <l>And here I make a most great vow,</l>
+               <l>That to your bidding I shall bow,</l>
+               <l>The Lord answer'd his son theretil,</l>
+               <l>My broad bennison I leave thee still,</l>
+               <l>And all my lands after my days,</l>
+               <l>The Lord unto his son he says:</l>
+               <pb n="3" facs="tcp:59629:2"/>
+               <l>With heart and mouth to him did say,</l>
+               <l>A rig I will not put away,</l>
+               <l>Be meek and good, and on the poor do re<gap reason="illegible: blotted" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>,</l>
+               <l>And to the King see thou be ever true,</l>
+               <l>Devout to God with true humilitie.</l>
+               <l>And without doubt the great God will defend thee.</l>
+               <l>Keep honour, faith, and thy lawtie,</l>
+               <l>And my broad bennison I leave thee.</l>
+               <l>Strive thou thy life for to amend,</l>
+               <l>God will give thee a blessed end.</l>
+               <l>Thy midmost brother thou send to me,</l>
+               <l>That I may counsel him trulie.</l>
+               <l>The midmost brother was near hand by,</l>
+               <l>Came to his father right speedily,</l>
+               <l>And halsi<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> him right reverently,</l>
+               <l>He said father now how do ye?</l>
+               <l>He said my son, as pleases God,</l>
+               <l>For here I have not long abode.</l>
+               <l>What have ye left me that ye will give?</l>
+               <l>How think ye father that I should live?</l>
+               <l>I am your son as well as he,</l>
+               <l>Ye might have left some part to me.</l>
+               <l>His father said, I'le not permit</l>
+               <l>Thee of my lands to brook a bit:</l>
+               <l>The eldest brother shall them brook,</l>
+               <l>I would he thee in service took:</l>
+               <l>Serve him with all the craft thou can,</l>
+               <l>He shall thee hold a gentleman,</l>
+               <l>Both in horse, cloathing and in gear,</l>
+               <l>The son said not I here do swear:</l>
+               <l>Serve him, wherefore? or yet for why?</l>
+               <l>He is your son, and so am I.</l>
+               <l>I'le not him serve though he were wood,</l>
+               <l>Fellow right fain is wondrous good.</l>
+               <l>At him I think nothing to crave,</l>
+               <l>My part of land I think to have:</l>
+               <l>And all that will take part with me</l>
+               <l>Either in part or privitie.</l>
+               <l>The Lord answer'd thou ne're was wise,</l>
+               <l>Thou mayst not come to such a prise,</l>
+               <l>Strive not to that thou has no right,</l>
+               <pb n="4" facs="tcp:59629:3"/>
+               <l>And to debate thou has no might.</l>
+               <l>Yet son I think thee not to tine,</l>
+               <l>Take thou that purse both good and fine,</l>
+               <l>It hath a vertue I let thee wit,</l>
+               <l>As oft thou puts thy hand in it,</l>
+               <l>A Ducat of Gold thou shalt find there,</l>
+               <l>Take forth, and thou shalt spend the mait;</l>
+               <l>Then thou may be a man of might,</l>
+               <l>The young man leugh and went out right,</l>
+               <l>And of the purse he was right fain,</l>
+               <l>When he his brother meets on the plain,</l>
+               <l>He says, brother, thou stays too long,</l>
+               <l>Go thou in time for fear of wrong;</l>
+               <l>For I have here into mine hand,</l>
+               <l>That's worth an Earldom of land.</l>
+               <l>What our father had far or near,</l>
+               <l>All is disponed both land and gear.</l>
+               <l>The youngest said, I care not by,</l>
+               <l>My fathers life rather had I,</l>
+               <l>Nor all the land and gear alsway,</l>
+               <l>Betwixt the heaven &amp; earth this day.</l>
+               <l>Sore sick is he, and wondrous woe,</l>
+               <l>That thou art thus so far him fro.</l>
+               <l>God grant me his bennison ere he die</l>
+               <l>He ran to him right hastilie.</l>
+               <l>And halsit him right reverentlie,</l>
+               <l>And said, father, how do ye?</l>
+               <l>Right sick, and feeble, and like to die,</l>
+               <l>My death draws near, as thou may see.</l>
+               <l>He says, my son, come near and hear,</l>
+               <l>Give me thy heart my son so dear.</l>
+               <l>The same blessing I leave to thee,</l>
+               <l>That Christ left unto mild <hi>Marie.</hi>
+               </l>
+               <l>Son, I can leave thee no more here,</l>
+               <l>All is dispon'd both land and gear.</l>
+               <l>What man of craft thinks thou to be?</l>
+               <l>A Clark to learn till that I die.</l>
+               <l>I you beseech my father in haste,</l>
+               <l>My eldest brother ye would request,</l>
+               <l>To find me books and also claise,</l>
+               <l>That I may learn my God to please,</l>
+               <pb n="5" facs="tcp:59629:3"/>
+               <l>The Lord answered him right until,</l>
+               <l>My eldest son shall that fulfil,</l>
+               <l>For I pe<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ceive well by thy face,</l>
+               <l>That thou art born to meikle grace.</l>
+               <l>But son, I think thee not to <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>yne,</l>
+               <l>Take thou that mantle good &amp; fine,</l>
+               <l>Its better to thee than gold or land,</l>
+               <l>The vertue none does understand.</l>
+               <l>Cast it about thee when ever thou will</l>
+               <l>And thir words say the mantle until,</l>
+               <l>God, and my man<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>le, and my wish,</l>
+               <l>If I were in the place where ever it is,</l>
+               <l>Where ever thou wishes for to be,</l>
+               <l>Thou shalt be there right speedilie:</l>
+               <l>Were it a thousand miles and mair,</l>
+               <l>In<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o a clap thou shalt be there:</l>
+               <l>Pass with my blessing I leave thee it,</l>
+               <l>To God I recommed my spirit.</l>
+               <l>When he was dead and laid in bear,</l>
+               <l>Of his sons guiding ye shall hear.</l>
+               <l>The eldest was a noble Lord,</l>
+               <l>Keeped his lands in good concord;</l>
+               <l>The youngest son keeped the Shool,</l>
+               <l>The mid most brother play'd the fool,</l>
+               <l>The purse made him so high and nice,</l>
+               <l>He set his brother at little price.</l>
+               <l>He grew so proud and wanton than,</l>
+               <l>That he misknew both God and man:</l>
+               <l>He <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ad moe men at his command,</l>
+               <l>Nor had <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he Lord that aught the land.</l>
+               <l>He was so wanton of gold and treasure,</l>
+               <l>Defi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ēd wom<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n above measure.</l>
+               <l>While it fell once upon a day,</l>
+               <l>In unco<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>th land he would assay,</l>
+               <l>Fair women for pleasure to fang.</l>
+               <l>In his countrie he thoght so lang.</l>
+               <l>No stay for him, he made travail,</l>
+               <l>That he saw ships drest for to sail:</l>
+               <l>Syne went to sail with his meinzie,</l>
+               <l>Till he came to a far coun<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rie:</l>
+               <l>They sailed the day, they sailed the night,</l>
+               <l>Till of a land they got a sight,</l>
+               <pb n="6" facs="tcp:59629:4"/>
+               <l>The whilk was called fair <hi>Portugal,</hi>
+               </l>
+               <l>There they landed withoutten fall,</l>
+               <l>And all his mein<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ie at his back,</l>
+               <l>Ready him service for to make.</l>
+               <l>The King <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e had a daughter fair,</l>
+               <l>Had no more bairns, she was his heir,</l>
+               <l>He marvel'd who durst be so bold,</l>
+               <l>That in his countrie enter would,</l>
+               <l>Withoutten seeking any leave,</l>
+               <l>The whilk thing did the King much grieve:</l>
+               <l>I will pass to him (says he) and speir,</l>
+               <l>Why they are come, I will requite.</l>
+               <l>If they be noble men of blood,</l>
+               <l>They will give me an answer good:</l>
+               <l>Yet at that time he did not pass,</l>
+               <l>But change another that readi<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> was,</l>
+               <l>Bade his daughter go on her way,</l>
+               <l>Bring him sure word what ever they say.</l>
+               <l>She passed quicklie thorow the street,</l>
+               <l>And with the young man could she meet:</l>
+               <l>He ha<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>sit her right reveren<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lie,</l>
+               <l>Syne kneeled low down on his knee:</l>
+               <l>And said, Princess, I you beseek,</l>
+               <l>As ye are maiden mild and meek,</l>
+               <l>That ye would grant me and my men,</l>
+               <l>Here to remain nine w<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ks or ten,</l>
+               <l>Mine o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n goods here onlie to spend,</l>
+               <l>Till <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e see farder ere we wend,</l>
+               <l>And afterward you service make,</l>
+               <l>With heart and hand if ye will take;</l>
+               <l>She says right welcome shal ye be,</l>
+               <l>Both to my father and to me:</l>
+               <l>Pass throw the countrie as ye think best,</l>
+               <l>And spend your goods while they may last.</l>
+               <l>She called a Squire of great renown,</l>
+               <l>Go convoy them out throw the town,</l>
+               <l>And swa departed she and he,</l>
+               <l>Both blyth and glad, as they might be.</l>
+               <l>Swa long as they bade in the town,</l>
+               <l>When it was time they made them bown,</l>
+               <l>Spend and, and wast and verie fast,</l>
+               <pb n="7" facs="tcp:59629:4"/>
+               <l>Till so it chanced at the last,</l>
+               <l>The King himself great marvel had</l>
+               <l>That coinzie thow him if he wad:</l>
+               <l>Where tha he got that kind of gold</l>
+               <l>Tha<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> such like was not on them <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>.</l>
+               <l>He spended so both late and air,</l>
+               <l>His gold that was pleasant and fair.</l>
+               <l>Ilk piece thereof he had in hand,</l>
+               <l>Did weigh two Duckats <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> understand.</l>
+               <l>The King himself was not so fed,</l>
+               <l>Nor yet so courtlie like becled:</l>
+               <l>As was that man of great reno<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n,</l>
+               <l>While he remained in the town.</l>
+               <l>And yet I never saw his mark.</l>
+               <l>For all his gold was of one straik;</l>
+               <l>He got none of it, I understand,</l>
+               <l>S<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n he came first into this land.</l>
+               <l>Where could he get that kind of gold,</l>
+               <l>That he spends so upon the mold?</l>
+               <l>S<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n he came here, what he h<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s spended?</l>
+               <l>And what he has it is not ended,</l>
+               <l>Right so anon<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the Ladie fair,</l>
+               <l>Who was the Kings daughter and heir,</l>
+               <l>She trow'd he was some Prince or King,</l>
+               <l>Was now come to her in wooing.</l>
+               <l>He was bac a bairn lie young man,</l>
+               <l>That could not speak his own errand.</l>
+               <l>She went to him right hastilie,</l>
+               <l>Requested him right reverentlie,</l>
+               <l>He would come in her fathers ye<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>,</l>
+               <l>Tha<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> be ter treatment he might get;</l>
+               <l>And in his companie bring not ant,</l>
+               <l>So blyth he was of that tydane:</l>
+               <l>He came in haste at her command,</l>
+               <l>Syne reverentlie he did demand</l>
+               <l>When he came there within the yett,</l>
+               <l>The Kings daughter then with him met;</l>
+               <l>He kneeles low down on his knee,</l>
+               <l>And gave great thanks to the Ladie:</l>
+               <l>Like<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ise the Ladie thanks him gave;</l>
+               <l>Syne asked at him what he would have,</l>
+               <pb n="8" facs="tcp:59629:5"/>
+               <l>My asking here is not as now,</l>
+               <l>My mind thereafter I will tell you,</l>
+               <l>Wherefore and why that I came here,</l>
+               <l>The matter and purpose I shal clear.</l>
+               <l>Ask on (Madam) what is your will?</l>
+               <l>To do you pleasure I shal fulfill,</l>
+               <l>Saving my honour and my life,</l>
+               <l>To fight with spear, with Sword, or knife,</l>
+               <l>In credit, wealth, or yet favour,</l>
+               <l>All shall be whole at your pleasure.</l>
+               <l>When speech was ended as ye may see,</l>
+               <l>She took him up right reverentlie,</l>
+               <l>And said to him right secretlie,</l>
+               <l>Sir will ye stay a little with me,</l>
+               <l>Till that ye drink and drink again,</l>
+               <l>Sua long as we do here remain,</l>
+               <l>It shall you not at all displease,</l>
+               <l>Sit do<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n beside it will you ease;</l>
+               <l>Where love has its habitation,</l>
+               <l>Betwixt two it breeds consolation,</l>
+               <l>She cry'd for wine and to him drank,</l>
+               <l>He said (Madam) here I you thank,</l>
+               <l>Caused serve him with dainty chear,</l>
+               <l>And said Sir ye are welcome here;</l>
+               <l>Then quietlie she to him said,</l>
+               <l>Whereof himself was no ways glad;</l>
+               <l>Saying to him, me thinks ye he,</l>
+               <l>Who now is come to this countrie,</l>
+               <l>Me for to wooe, or for to geck.</l>
+               <l>In your own earand cannot speak,</l>
+               <l>For as long here as ye have spended,</l>
+               <l>I marvel that your gold's no<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ended:</l>
+               <l>He says (Ladie) I am no King.</l>
+               <l>Nor has great lands in governing:</l>
+               <l>But if ye will grant my asking,</l>
+               <l>I will give you a precious thing,</l>
+               <l>The ver<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ue thereof no man does ken,</l>
+               <l>From this part to the worlds end,</l>
+               <l>Wilt thou my true for ever be,</l>
+               <l>And make a vow but to love me,</l>
+               <l>And be my dear till that I live,</l>
+               <pb n="9" facs="tcp:59629:5"/>
+               <l>Nor yet my person for to grieve</l>
+               <l>The vertue of this I shall declare,</l>
+               <l>Where that I got this gold and mai<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>:</l>
+               <l>And how that I may daily spend?</l>
+               <l>And how this gold will never make end?</l>
+               <l>Quoth she, dear welcome m<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t ye be,</l>
+               <l>Sua long as your lasts truelie</l>
+               <l>I shall be yours, ye shall be mine,</l>
+               <l>More dearer than Prince <hi>Florentine:</hi>
+               </l>
+               <l>I swear to you my plight trulie,</l>
+               <l>And ever shall till that I die:</l>
+               <l>Sua that ye bear the like to me,</l>
+               <l>That I shall do right faithfullie,</l>
+               <l>And if ye keep your privitie,</l>
+               <l>You perfect truth plight unto me,</l>
+               <l>And your intent shall have of me,</l>
+               <l>Sua ye observe it honestlie.</l>
+               <l>And so thir two gave other their hand</l>
+               <l>To this agreement true to stand,</l>
+               <l>Both faith and truth to her did give,</l>
+               <l>Syne kissed her with her own leave.</l>
+               <l>At leng<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h the purse shewed with his hand,</l>
+               <l>Said to her will ye understand,</l>
+               <l>This samine Purse I let you wit,</l>
+               <l>As oft as you put your hand in it,</l>
+               <l>A Duckat of gold you shall find there,</l>
+               <l>Take forth and ye shall find the mair.</l>
+               <l>The Ladie perceived that it was swae,</l>
+               <l>The Purse to hee soon can she tae.</l>
+               <l>They kissed other a good space there,</l>
+               <l>What other pleasures they had mair,</l>
+               <l>That he chanced upon a sleep,</l>
+               <l>The Ladie perceived and had good keep,</l>
+               <l>And privilie she past away,</l>
+               <l>Let him ly there while it was day;</l>
+               <l>While it was day and after one,</l>
+               <l>Wakened belyve and made great moan,</l>
+               <l>None with him but himself alone,</l>
+               <l>Right sad in heart, and woe begone,</l>
+               <l>And he left there the Ladie gen<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</l>
+               <l>Then to his lodging soon he went,</l>
+               <pb n="10" facs="tcp:59629:6"/>
+               <l>While on the morn in the morning,</l>
+               <l>Sorrow and care in his sojourning.</l>
+               <l>He loked about and astonisht flood,</l>
+               <l>And marvelled as he were wood,</l>
+               <l>Saying to himself, what have I done?</l>
+               <l>The great God knows that is aboon.</l>
+               <l>Sua he perceived the purse away,</l>
+               <l>Says woe is me, and harmsay,</l>
+               <l>Alas, alas, what shall I do?</l>
+               <l>Or what aire shall I turn me to?</l>
+               <l>Sent back his boy her to seek,</l>
+               <l>Beseek and the Ladie both mild and meek,</l>
+               <l>To send him his purse bedeen,</l>
+               <l>Tha<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> he left in her chamber yestreen.</l>
+               <l>Sua soon then as the boy came nie,</l>
+               <l>He kneeled low down on his knee,</l>
+               <l>And says, Lady, God mot you save,</l>
+               <l>Of you I must good answer have:</l>
+               <l>My Master has sent me you till,</l>
+               <l>Beseekand you of your gout good will,</l>
+               <l>Of your good will and chari ie,</l>
+               <l>A good answer ye gran<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> to me,</l>
+               <l>Wherein shall I thee answer give?</l>
+               <l>Or if thou says ought me to grieve?</l>
+               <l>Said, what is it thou comes to crave?</l>
+               <l>Or what is here that thou would have?</l>
+               <l>Send to my Master his purse bedeen,</l>
+               <l>That he left in your Chamber yestreen,</l>
+               <l>The Lady did start, the Lady lap,</l>
+               <l>And <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>it hand on another did clap:</l>
+               <l>S<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ei h hy thee traitour out of my sight,</l>
+               <l>Command thy Master in all his might,</l>
+               <l>That he pack out of this countrie,</l>
+               <l>Or I vow hee's be hanged hie.</l>
+               <l>I had rather hang him on a pin,</l>
+               <l>Or he come near my chamber within.</l>
+               <l>I shall gat hang him on a knagg,</l>
+               <l>If he speak either of purse or bagg.</l>
+               <l>The boy in haste sped him away,</l>
+               <l>Sped him right soon, made no delay:</l>
+               <l>His master to the Lady said,</l>
+               <pb n="11" facs="tcp:59629:6"/>
+               <l>Whereof his master was not glad,</l>
+               <l>Commanded his master for to <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>end:</l>
+               <l>Syne charged him and all his men,</l>
+               <l>To pass in haste off that countrie,</l>
+               <l>O<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> he would be hanged hie.</l>
+               <l>And si<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ce that he was charged so,</l>
+               <l>Of tha<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> his master was full <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o.</l>
+               <l>Little spending was left himsell,</l>
+               <l>Right as the storie doth us <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ell.</l>
+               <l>Thus in a morning forth suit he,</l>
+               <l>Wh<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> he came to a la<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> countrie;</l>
+               <l>Of his own life began to irk.</l>
+               <l>For he could neither beg nor wirk.</l>
+               <l>On no ways could he beg nor steal,</l>
+               <l>Though he was poor he was right leil.</l>
+               <l>So it fell on a dangerous year,</l>
+               <l>That meat and drink, and all was dear</l>
+               <l>He was so hu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>g<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, and put to pyne,</l>
+               <l>That he was fain for to keep swyne,</l>
+               <l>In all the land, as I heard tell,</l>
+               <l>There was but very little vi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tel.</l>
+               <l>He kept the swine, I leave him still,</l>
+               <l>And of the youngest speak we will.</l>
+            </lg>
+            <lg>
+               <l>Who kept the School, a noble Clark,</l>
+               <l>And of him farder we will carp.</l>
+               <l>He was a goodly man and wise,</l>
+               <l>It chanced he did get the prise.</l>
+               <l>The Pope of <hi>Rome</hi> he hapened to be,</l>
+               <l>The Cardinals wrote to ilk countrie.</l>
+               <l>Charging them all o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> good friday,</l>
+               <l>At midnight for to wa<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ch and pray,</l>
+               <l>And send to <hi>Rome</hi> the holiest man,</l>
+               <l>That the Lord God best may or ca<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</l>
+               <l>That God would to the Chap er send</l>
+               <l>On Good-friday or it di<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> end.</l>
+               <l>Both doors and windows closed fast,</l>
+               <l>Syne home incon<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>inent they past,</l>
+               <l>And sealed the locks with their own hand,</l>
+               <l>And gave the keys to the Lord of the land.</l>
+               <l>The Clark was blyth when he got wit,</l>
+               <l>His bonny mantle he hint to it;</l>
+               <pb n="12" facs="tcp:59629:7"/>
+               <l>Says, God, and my mantle, and my wish,</l>
+               <l>If I were in the place where ever it is,</l>
+               <l>In <hi>Romes</hi> seat if I were set,</l>
+               <l>Soon was he there withoutten let,</l>
+               <l>Into their seat when he came in,</l>
+               <l>He hint his mantle then fra him,</l>
+               <l>And syne sat down upon his knee,</l>
+               <l>And to the great God prayed he.</l>
+               <l>Soon after meat on Good-friday,</l>
+               <l>Lords, Barons came without delay,</l>
+               <l>And opened the Chapter with a gin,</l>
+               <l>Into the seat when he came in,</l>
+               <l>They said a Clerk was there sittand</l>
+               <l>On both his knees full fast prayand.</l>
+               <l>They thanked God both less and mair</l>
+               <l>So holy a Clerk who sent them there,</l>
+               <l>Who was sent by the Holy Spirit,</l>
+               <l>For to be Pope he was most meet.</l>
+               <l>Syne with that word they gave him doom,</l>
+               <l>And crowned him the pope of <hi>Rome:</hi>
+               </l>
+               <l>And all the Bells of <hi>Rome</hi> they rang,</l>
+               <l>Priests and Friers all they sang.</l>
+               <l>So daily ilk an with a shout,</l>
+               <l>They boor him all the town about,</l>
+               <l>And set him down upon his seat:</l>
+               <l>All men of him had great conceit,</l>
+               <l>Now Pope of <hi>Rome</hi> we leave him still.</l>
+               <l>And of the midmost speak we will.</l>
+            </lg>
+            <lg>
+               <l>When that came within the town,</l>
+               <l>To en<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>er in he was most bown;</l>
+               <l>He told his brother both less and mair,</l>
+               <l>Spoiled of all he was most bair.</l>
+               <l>His brother was from far countrie,</l>
+               <l>He marvel'd of him to hear and set,</l>
+               <l>Into the woods among his face,</l>
+               <l>Hes left him neither gold nor clair.</l>
+               <l>The Proc<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ssion was charged him to meet,</l>
+               <l>Wi<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h all solemnities compleat,</l>
+               <l>With honour great, and good intent,</l>
+               <l>They were all readie incontinent,</l>
+               <l>
+                  <gap reason="illegible: blotted" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ast throw the whole parts of the street,</l>
+               <pb n="13" facs="tcp:59629:7"/>
+               <l>The Popes brother there to meet.</l>
+               <l>As soon as he his brother saw.</l>
+               <l>Great pleasure was among them aw,</l>
+               <l>Syne took his brother by the hand,</l>
+               <l>So did they all at his command:</l>
+               <l>Syne said brother welcome to me,</l>
+               <l>Ye shall want neither meat nor fee,</l>
+               <l>And a new cleithing ye shall take,</l>
+               <l>My Master-houshold I shall you make:</l>
+               <l>And I avow to my ending,</l>
+               <l>I shall you love attour all thing.</l>
+               <l>He says, dear brother, God you reward,</l>
+               <l>Now have ye made me Lord and Laird,</l>
+               <l>A Lord of office ye have me made,</l>
+               <l>And likewise promist fait lands braid.</l>
+               <l>He had not been a moneth there,</l>
+               <l>While he thought on his Ladie sair,</l>
+               <l>And thought to win the purse again,</l>
+               <l>And to <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Ladie do no pain,</l>
+               <l>That his <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>urse fra him once had tane.</l>
+               <l>Vnto the Pope he said again,</l>
+               <l>Now b<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>other dear I you intreat,</l>
+               <l>Grant me an asking I think meet;</l>
+               <l>Then answer'd his brother right reverentlie,</l>
+               <l>Ask on my brother, what ever it be,</l>
+               <l>Says brother, lend me your mantle fine,</l>
+               <l>I swear to you l'<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> not it tyne.</l>
+               <l>But bring't again after this day,</l>
+               <l>I no <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ays shall put it away,</l>
+               <l>The Pope answer'd with drearie chear,</l>
+               <l>I had rather give you my brother dear,</l>
+               <l>A million of gold, als much of land,</l>
+               <l>Nor lend my mantle out of hand.</l>
+               <l>As I have said it shall be so,</l>
+               <l>I no ways will it hold thee fro.</l>
+               <l>Now keep it well my brother dear,</l>
+               <l>With that the Pope made drearie chear,</l>
+               <l>And fra his bro<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>her turn'd his back,</l>
+               <l>Syne took his leav<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> and no more spake:</l>
+               <l>His brother had his mantle in hand,</l>
+               <l>Cast it about him where he d<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d stand,</l>
+               <pb n="14" facs="tcp:59629:8"/>
+               <l>Said, God, and my mantle, and my wi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h,</l>
+               <l>If I were in the place where ever it is,</l>
+               <l>Where ever she be that Lady free,</l>
+               <l>That took that noble purse from me.</l>
+               <l>Then be these words came in his thought,</l>
+               <l>He was into the chamber brought.</l>
+               <l>She was into her bed sleepand,</l>
+               <l>And he upon the floor standand;</l>
+               <l>Laid down his mantle and his wish,</l>
+               <l>Then he began the Lady to kiss,</l>
+               <l>First to kils, and then to clap,</l>
+               <l>And quietly in the bed he crap.</l>
+               <l>The Lady wakened with cry,</l>
+               <l>Says, who is this that lyes me by?</l>
+               <l>I pray you tell me the manner;</l>
+               <l>How came ye in? who brought you here</l>
+               <l>Your asking then whatever it be,</l>
+               <l>Ye shall have it of me trulie.</l>
+               <l>He says my mantle, and my wish,</l>
+               <l>If I were in the place where ever it is,</l>
+               <l>Where I desire, or think to be,</l>
+               <l>There will I be right hastitie.</l>
+               <l>She said, sweet Sir, for charitie,</l>
+               <l>As ye would do any thing for me,</l>
+               <l>Now wish me and your mantle anone,</l>
+               <l>Into you place of Marble stone:</l>
+               <l>That we may play together there,</l>
+               <l>And certainly withoutten mair,</l>
+               <l>Be that same word came in his thought,</l>
+               <l>They were both in the I'le soon brought,</l>
+               <l>Vnto a green place where they lay,</l>
+               <l>And unto him there can she say,</l>
+               <l>Lay down your head upon my knee,</l>
+               <l>That I may look a little wee:</l>
+               <l>He needed no ways more bidding,</l>
+               <l>But suddenly fell on sleeping.</l>
+               <l>Vpon her knee lay down his head,</l>
+               <l>Of his mantle he took no dread.</l>
+               <l>The Lady well perceived that,</l>
+               <l>Quickly she rose, and the mantle gat;</l>
+               <l>The mantle she took deliverlie,</l>
+               <pb n="15" facs="tcp:59629:8"/>
+               <l>And wished her self right shortlie,</l>
+               <l>Into her chamber, and that anon</l>
+               <l>And in <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he Y<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e left him alone,</l>
+               <l>Sleep<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ng there like a drunken Sow,</l>
+               <l>Both purse and mantle wants he now,</l>
+               <l>Bu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> at the last <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>en wakened he,</l>
+               <l>He wilt the mantle and the Ladie,</l>
+               <l>Ye may well wit his heart was sair,</l>
+               <l>When he mourned and made great care.</l>
+               <l>My purse and mantle is now both gone,</l>
+               <l>And in this Yland left alone;</l>
+               <l>No creature is left with me,</l>
+               <l>Nor none to bear me companie.</l>
+               <l>Or who will anie meat me give?</l>
+               <l>Great God of heaven how shal I live?</l>
+               <l>Much was the care and d<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>le he made,</l>
+               <l>He rave the hair out of his head.</l>
+               <l>He stayed not there well days three,</l>
+               <l>Till he saw ships upon the sea;</l>
+               <l>They sailed right so near hand by,</l>
+               <l>While they did hear his voice and cry:</l>
+               <l>Syne saw him on a c<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aig standand,</l>
+               <l>A man would fain be at the land,</l>
+               <l>Cryand to them, that they might see</l>
+               <l>Help for his sake that dy'd on tree,</l>
+               <l>Said it was pitie for to see</l>
+               <l>A man distrest what ever he be,</l>
+               <l>Ʋpon you craig mourning full fair,</l>
+               <l>Right sad in heart, what would ye mair?</l>
+               <l>The ship came to the craig near hand,</l>
+               <l>Their language could he not understand:</l>
+               <l>He knew them not, nor ye<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> they him,</l>
+               <l>Yet willinglie they took him in.</l>
+               <l>He syned to them that he would gang,</l>
+               <l>Showing to them that he thought lang.</l>
+               <l>He would fain been at <hi>Rome</hi> again,</l>
+               <l>But with them he dought not remain;</l>
+               <l>He wanted money, he thoug<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> great shame,</l>
+               <l>He thought he was so long <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>a name.</l>
+               <l>With their Cock boat put him to land,</l>
+               <l>Where he might see on everie hand.</l>
+               <pb n="16" facs="tcp:59629:9"/>
+               <l>He passed to a part near by,</l>
+               <l>For mea<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> or drink if he might try,</l>
+               <l>Ye<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> to a wood with heart full fair,</l>
+               <l>Pleasant and wholsome was the air;</l>
+               <l>He swoundit sorrowfully in that steed,</l>
+               <l>That he for hunger was almost dead.</l>
+               <l>He cry'd u<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>on our Ladie dear,</l>
+               <l>That hunger and thirst strack him so near,</l>
+               <l>He looked a little <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ar hand by,</l>
+               <l>A tree of apples he could espy.</l>
+               <l>Right blyth and glad was of that sight,</l>
+               <l>He took his fill even as he might,</l>
+               <l>And stepped a space beside the tree,</l>
+               <l>And said they were good companie:</l>
+               <l>Syne are his fill of that fair fruit,</l>
+               <l>For him to gang it was no b<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>it:</l>
+               <l>Because the apples that he did eat,</l>
+               <l>He fand them taking, and right sweet,</l>
+               <l>A smell they had above measure,</l>
+               <l>Might pleas'd a King or Emperour;</l>
+               <l>As well for Dames, as mighty Qut<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>s,</l>
+               <l>Was never fairer seen with eyne.</l>
+               <l>I may take apples now with me,</l>
+               <l>For hunger I think not to die.</l>
+               <l>He pulled the apple, and are so fast,</l>
+               <l>And filled himself, tilt at the last</l>
+               <l>He was as lipper as <hi>Lazarus,</hi>
+               </l>
+               <l>Or any in the world I wish.</l>
+               <l>His head ov'rspread with byles black,</l>
+               <l>That none might ken a word he spake,</l>
+               <l>Right wisely then perceived he,</l>
+               <l>And saw fair pears upon a tree,</l>
+               <l>He pull'd the pears but any bai<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</l>
+               <l>Right gladly are ere he fa<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>der gaid,</l>
+               <l>Sua leper he was, he would have been</l>
+               <l>For to have gotten medicine</l>
+               <l>The pears he are the stori<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> does say.</l>
+               <l>Whilk put the leprosie clean away,</l>
+               <l>He was as clean, the story says this,</l>
+               <l>As anie into the world I wiss.</l>
+               <l>With him he carried of apples three score,</l>
+               <pb n="17" facs="tcp:59629:9"/>
+               <l>Of them surelie he took no more,</l>
+               <l>And twice as manie of the pears he took,</l>
+               <l>That he took with him, he none forsook,</l>
+               <l>And if apples made lipperous,</l>
+               <l>The pears healed most precious:</l>
+               <l>Of both the sorts with him he had,</l>
+               <l>All men was welcome, buy who wad.</l>
+               <l>Thir apples that the man on fell,</l>
+               <l>Brought him great good I shal you tell.</l>
+               <l>The apples he carried him about,</l>
+               <l>A strange vertue they had but doubt:</l>
+               <l>He carried these apples as he did pass,</l>
+               <l>And took them where the Ladie was.</l>
+            </lg>
+            <lg>
+               <l>Vpon a time to the Kirk he came,</l>
+               <l>Where he saw manie a Ladie and Dame</l>
+               <l>And as he sat in the Kirk yard,</l>
+               <l>There came about him such a guard,</l>
+               <l>To buy these apples pleasant and fair,</l>
+               <l>And manie people he saw there.</l>
+               <l>Vnto the Kirk syne could he pass,</l>
+               <l>Baid still and saw where the Ladie was,</l>
+               <l>That purse and mantle fra him had tane,</l>
+               <l>He thought to do the Ladie much pain,</l>
+               <l>Thus thinking there as he could gang,</l>
+               <l>To bring the Ladie into such thrang:</l>
+               <l>Saying unto himself alone,</l>
+               <l>But kind of fair words spake he none:</l>
+               <l>He wist not to whom his moan to make,</l>
+               <l>He went to Church door a seat to take,</l>
+               <l>And at the Kirk door he sat down,</l>
+               <l>Where the Ladie went readie bown:</l>
+               <l>He knew right well she would be there,</l>
+               <l>Where tha<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> she used to make repair.</l>
+               <l>The apples was seemlie to be seen,</l>
+               <l>Men did not see such with their een.</l>
+               <l>There gathered about him a great meinzie,</l>
+               <l>They wondred meikle the apples to see.</l>
+               <l>How sell ye the apples they bad him tell,</l>
+               <l>For ten Duckats the piece I sell:</l>
+               <l>Please you to buy, I will take money.</l>
+               <l>Stand by if ye will not buy any.</l>
+               <pb n="18" facs="tcp:59629:10"/>
+               <l>Do not stand here my market to spill.</l>
+               <l>I bid none buy but these that will.</l>
+               <l>In the mean time the Ladie was command</l>
+               <l>Vnto the Ki<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>k with madens in a band:</l>
+               <l>She strang<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lie marvel'd a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he repair she saw,</l>
+               <l>And hither-ward then she began to draw;</l>
+               <l>A maiden answered it I shall you tell,</l>
+               <l>A daft fellow it is has apples to sell;</l>
+               <l>They are verie fair and comelie to see,</l>
+               <l>Ten Duckats he piece for them seeks he.</l>
+               <l>The people answered call'd him daft man,</l>
+               <l>As for one apple to seek that price than.</l>
+               <l>It cannot be but they have a vertue,</l>
+               <l>The Apples right pleasant has a fair shew.</l>
+               <l>Then forward to the market the Ladie ca<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> gang,</l>
+               <l>To see the Apples she thought great lang:</l>
+               <l>Some of them bought she it was her pleasure</l>
+               <l>To look and to view <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e took great leasure</l>
+               <l>None of them she priev'd till morn afternoon</l>
+               <l>And for that cause she sped her home soon,</l>
+               <l>And when she came into her fathers hall,</l>
+               <l>Syne after her maidens shortlie did call,</l>
+               <l>Bring hither the Apples ye bought to me,</l>
+               <l>For they are fair and seemlie to see.</l>
+               <l>She ate of them three and thought them right dulce,</l>
+               <l>Till she was as lipper as <hi>Lazarus:</hi>
+               </l>
+               <l>Her head overspread with byles black,</l>
+               <l>That none might heer a word she spake:</l>
+               <l>Syne looked in a glass and saw her self so,</l>
+               <l>Out of her right wits she was like to go,</l>
+               <l>Waryand the hour tha<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ever she was born,</l>
+               <l>She saw her self so, alas I'm forlorn,</l>
+               <l>Be that her father came in right at noon,</l>
+               <l>And cal'd for his daughter to come to him soon</l>
+               <l>Then a maiden answered meeklie and spake,</l>
+               <l>Your daughter is vexed with uglie by les black.</l>
+               <l>I cannot tell you how it fell the case,</l>
+               <l>Be that the blood shot into his face.</l>
+               <l>Her father came soon without any baid,</l>
+               <l>Received his daughter into his arms braid.</l>
+               <pb n="19" facs="tcp:59629:10"/>
+               <l>Right sore he grat for his daughters skaith,</l>
+               <l>E<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r she to him comfort &amp; joy brought baith</l>
+               <l>He now does say, alas full wo <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s me,</l>
+               <l>Vpon my daughter this sad sight for to see.</l>
+               <l>She said to her father my heart is full wo,</l>
+               <l>Now what shall I d<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> where shall I go<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </l>
+               <l>The King then said, good Lords of grace.</l>
+               <l>Cause shortlie proclaim into everie place,</l>
+               <l>If anie there be that her hail might,</l>
+               <l>M<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> daughter shall them marrie outright,</l>
+               <l>Then to this counsel the Lords came in hy,</l>
+               <l>Both grea<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> and small, and that hastilie.</l>
+               <l>Throw all <hi>Portugal</hi> both up and down,</l>
+               <l>Proclaimed throw land and <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ik borrowstoun:</l>
+               <l>The Gentleman could well the matter speir,</l>
+               <l>Right blyth he was these tidings for to haar:</l>
+               <l>Yet be thought again the Ladie to beguile,</l>
+               <l>Both purse and mantle to get with awyle.</l>
+               <l>Prepared cloaths right seemlie to be seen,</l>
+               <l>Syne call<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d himself Doctor of Medicine.</l>
+               <l>This Lord he rode unto the Burrowstoun,</l>
+               <l>At the b<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>st lodging therein he <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ghted down,</l>
+               <l>After <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he hostage incon<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ien<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> sp<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>rit.</l>
+               <l>Both horse and man af<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>er him then requirit.</l>
+               <l>Spare not f<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r cost, although no Lord I be,</l>
+               <l>What ever my coun<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> is sha<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l be pay'd <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>relie.</l>
+               <l>They were right glad the tidings tha<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> he spake,</l>
+               <l>Ye<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> man &amp; horse did both him service make,</l>
+               <l>So past his time com<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>leat three days the<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>.</l>
+               <l>The hostage said to him, Sir, what will ye?</l>
+               <l>A Do<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tor of Medicine I'm readie at command</l>
+               <l>There's not in Christendeme I say this day livand,</l>
+               <l>Can heal diseases that I will take in hand,</l>
+               <l>And ther on I will lay my life in pannd.</l>
+               <l>The hostage said of leprosie have ye skill</l>
+               <l>Yea, I can heal it, and that right wonder well,</l>
+               <l>Then was he right blyth of that cer<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ain<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ie,</l>
+               <l>So was the<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e one past from his companie,</l>
+               <l>And that anone they went and told the King,</l>
+               <l>That such a man in his bounds was livand,</l>
+               <pb n="20" facs="tcp:59629:11"/>
+               <l>A fine Doctor, the best in all this land,</l>
+               <l>No finer is as we now understand.</l>
+               <l>The King was glad, and his daughter also,</l>
+               <l>Commands the Porter unto him for to go;</l>
+               <l>Who made no stay, but came incontinent,</l>
+               <l>Let me see now where is the patient</l>
+               <l>That I should hail, and also take the cure,</l>
+               <l>That shal I do by Gods grace, be ye sure:</l>
+               <l>Take ye no fear, since I have rane in hand,</l>
+               <l>God be my guide, he is my sure warrand.</l>
+               <l>Let no dread our enter inter into your heart;</l>
+               <l>I shal her hail before I do depart,</l>
+               <l>Or lose my life before that I do go,</l>
+               <l>What I have said, if that it be not so.</l>
+               <l>When that he came he saw the Ladie stand,</l>
+               <l>This lipperness will I now take in hand,</l>
+               <l>Mend her sickness in truth I take no fear,</l>
+               <l>Because I know the form and the manner</l>
+               <l>To hail her person both without and in,</l>
+               <l>And likewise als what fashion to begin.</l>
+               <l>If ye will keep your promise unto me,</l>
+               <l>What I have said in faith and truth to be;</l>
+               <l>What I have sworn I will keep verie well,</l>
+               <l>What I have said shal testifie my seal:</l>
+               <l>Nor shal deny the thing that I have said,</l>
+               <l>Whereof the Doctor was both blyth and glad.</l>
+               <l>The companie rejoyced all about,</l>
+               <l>The Kings daughter made hail without doubt.</l>
+               <l>F<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> she heard that rejoyced great<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mlie,</l>
+               <l>Before them came and halsit the companie.</l>
+               <l>Then she before her father lighted down,</l>
+               <l>And unto God made her devotion.</l>
+               <l>That same command the vowed to fulfil,</l>
+               <l>Without faining of deceit therein til,</l>
+               <l>Get up rig<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t soon, and rise up oft your knee,</l>
+               <l>Make true confession both to God and me,</l>
+               <l>And if that <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e make your confession le<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l,</l>
+               <l>I promise here to make you sound and well.</l>
+               <l>So she shew forth, and her confession made,</l>
+               <l>T<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e p<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>se and mantle no wa<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he opened:</l>
+               <l>And so these two the keeped still in mind,</l>
+               <pb n="21" facs="tcp:59629:11"/>
+               <l>Reveal'd them not, but kept her self in pine;</l>
+               <l>Caus'd her grow worse into her leprosie,</l>
+               <l>She said alas, alas, and wo is me,</l>
+               <l>Now I am worse than yet I was before,</l>
+               <l>Full <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o is me, and wo is me therefore.</l>
+               <l>The Doctor answer'd saying I have no might</l>
+               <l>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o help you now, you have not told the right:</l>
+               <l>I am right sure some things ye have forget,</l>
+               <l>Hid in your heart, to tell ye will not set:</l>
+               <l>Out of the world far better I had been,</l>
+               <l>To kyth my craft, &amp; <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e no ways made clean.</l>
+               <l>The King said, daughter likes thou to be hail,</l>
+               <l>I thee request make thy confession leal:</l>
+               <l>And here I pray thee by the great God ab<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>on,</l>
+               <l>Without dissimulanc<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> make thy confession.</l>
+               <l>A lippe<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> woman again shall never be,</l>
+               <l>Nor e<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>er vex<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> wi<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> such infirmitie.</l>
+               <l>When I am dead he's be King after me,</l>
+               <l>Please thou him w<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d and married on him be.</l>
+               <l>If thou desires, it ly into thy heart,</l>
+               <l>That thou and he in love be af<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>erwart:</l>
+               <l>He to be King, and thou the Queen also,</l>
+               <l>From bail to bless ye may together go.</l>
+               <l>The daughter said, remain, and now bide still,</l>
+               <l>And my confession I shall declare ye till.</l>
+               <l>Now Lord of heav'n thou knows I did receive</l>
+               <l>A purse and mantle, that wrongously I have:</l>
+               <l>W<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ilk I took fra a young man sickerlie,</l>
+               <l>Who was then once familiar with m<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>;</l>
+               <l>In Marble Yle I left him mourning sore,</l>
+               <l>Ten<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ance for him I d<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ee'd the same therefore,</l>
+               <l>This is the cause tha<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> I do <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ish for him,</l>
+               <l>Health to my body bo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h without and within.</l>
+               <l>The Doctor said, thir twa ye cast you fra,</l>
+               <l>And see that ye forsake <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he same alswa,</l>
+               <l>And beseek God where ye are on your knee,</l>
+               <l>The pur<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e and mantle ye ren<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>er unto me.</l>
+               <l>She said, Sir, I beseek with all my will,</l>
+               <l>The purse and mantle ye freelie take you till,</l>
+               <l>The gentleman was blyth I understand,</l>
+               <l>Received them both, &amp; took them in his hand:</l>
+               <pb n="22" facs="tcp:59629:12"/>
+               <l>Then past aside a little the Ladie him fra,</l>
+               <l>And said these words before he past away,</l>
+               <l>Now God and my mantle and my wi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h,</l>
+               <l>If I were in the place where ever it is.</l>
+               <l>Be this was said incontinent he was there,</l>
+               <l>And left the Ladie into great dool and care,</l>
+               <l>Wary and the time that she was ever born,</l>
+               <l>Into that wretched life thus for to be forlorn,</l>
+               <l>Thus leave I now the Ladie sick and fair,</l>
+               <l>And to return to <hi>Rome</hi> I now will sate.</l>
+               <l>And shew my brother of my great craf<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> &amp; skill</l>
+               <l>The truth to see, and als to know my will:</l>
+               <l>How I have done &amp; what way I have wrought,</l>
+               <l>The purse &amp; mantle how I again have broght.</l>
+               <l>Of my coming he will be wondrous blyth,</l>
+               <l>And als be glad, I pray God make me thrive.</l>
+               <l>He wold not bide, bot went to him right soon,</l>
+               <l>He said, brother, ye're welcome here to <hi>Rome.</hi>
+               </l>
+               <l>I have gotten my purse and mantle again,</l>
+               <l>Brother, he said, of tha<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> I am right fain,</l>
+               <l>She that deceived me both meek and mild,</l>
+               <l>Is lipper sick, and I have her beg<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ll'd,</l>
+               <l>F<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>now he says, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hat will out conscience grieve</l>
+               <l>Keep Gods command, and help for to live:</l>
+               <l>If <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hou hes any skill throw help of God &amp; man</l>
+               <l>Help <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hou the Lady with all the craft thou can:</l>
+               <l>Be not unkind, but help with all thy might,</l>
+               <l>Do her the good thou can both day and night.</l>
+               <l>If one were whole and seemlie to be seen,</l>
+               <l>Great commendation bears where she he<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> been</l>
+               <l>Right shortlie go, and help her out of pain,</l>
+               <l>Show love to her who can thee love again.</l>
+               <l>Do not deny, but grant when thou is <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ere,</l>
+               <l>And for her sake see that thou to me swear</l>
+               <l>Thou <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hal do righ<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> &amp; not thy conscience grieve</l>
+               <l>Bu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> trulie help, and I wil thee believe,</l>
+               <l>Thou's be her husband, syne wed her with a ring,</l>
+               <l>And after that unto thy bed her bring:</l>
+               <l>Syne as a Prince live at thy own liking.</l>
+               <l>It may befal thereafter thou be King,</l>
+               <l>To that effect grant writ most hastily,</l>
+               <pb n="23" facs="tcp:59629:12"/>
+               <l>And for to pray the King especiallie,</l>
+               <l>Sa<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>and my brother's a worthie gen<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>leman,</l>
+               <l>Of medicine full <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ell the craft be can;</l>
+               <l>All sort of sickness we bear that he can heal,</l>
+               <l>He leprosie can cure withoutten fail,</l>
+               <l>We hear ye have a daughter wise and fair,</l>
+               <l>No moe ye have, we know she is your heir;</l>
+               <l>I am inform'd for my brother she is meet,</l>
+               <l>Betwixt them both wold y<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> with band complit</l>
+               <l>Great pitie is that ought should now her all,</l>
+               <l>I would she were relieved and made hail.</l>
+               <l>If that ye please, he wed her with a Ring,</l>
+               <l>And after that in <hi>Portugal</hi> be King.</l>
+               <l>The letters then to <hi>Portugal</hi> went tight soon,</l>
+               <l>If this matter betwixt them might be done.</l>
+               <l>And so conclude, amongst them make a bond,</l>
+               <l>The cause, &amp; why, how the matter should stand</l>
+               <l>With their consents, &amp; yours that it might be,</l>
+               <l>'Twixt <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>pp<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> and King this was made sicke<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lie.</l>
+               <l>Syne lend his brother with letters of parchment</l>
+               <l>That written was within to stand content,</l>
+               <l>So at that time the Letters to him gave,</l>
+               <l>Saying to him my blessing mot ye have:</l>
+               <l>Go on the way, thou take thir men with thee,</l>
+               <l>Forsoo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h they are a goodly companie,</l>
+               <l>With thee to fare, in ship as ye may sail,</l>
+               <l>Till that ye come to land in <hi>
+                     <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ortugal.</hi>
+               </l>
+               <l>I give thee here a million for to spend,</l>
+               <l>A<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>though thou sail'd unto the worlds end.</l>
+               <l>When thou art come into the Kings palac<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</l>
+               <l>Show my commission &amp; thanks unto his grace</l>
+               <l>Syne come again to <hi>Rome,</hi> and <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ow to me</l>
+               <l>With thy message what the King said to thee,</l>
+               <l>If his daughter thou hail of her disease,</l>
+               <l>The samine done my self it shall well please.</l>
+               <l>Sua the Lady was brought from care to bliss,</l>
+               <l>And after that she <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ay remained his:</l>
+               <l>Syne married her with joy and comforting,</l>
+               <l>So he gave her rich rub<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>es in a ring;</l>
+               <l>In midst of it a great jewel there was,</l>
+               <l>Shined more bright nor glittering was the glass,</l>
+               <pb n="24" facs="tcp:59629:13"/>
+               <l>The price of it I heard men right tell,</l>
+               <l>Was worth the half the kingdom of <hi>Portugal.</hi>
+               </l>
+               <l>Rich was that <hi>Jewel,</hi> if richer there might be,</l>
+               <l>The like I hear was not in no countrie,</l>
+               <l>For preciousness, and vertue that it had,</l>
+               <l>It was so fine that she thereof was glad.</l>
+               <l>Content she was to all his bidding,</l>
+               <l>And him obey'd and pleased in all thing,</l>
+               <l>With earls, lords, knights, barons comforting,</l>
+               <l>What wisht she more, she had much rejoicing,</l>
+               <l>The nobles all that dwelt in her countrie</l>
+               <l>Were all obedient unto her majestie,</l>
+               <l>Readie to her service and pleasure,</l>
+               <l>What she would have of gold &amp; rich treasure,</l>
+               <l>Brought to her grace abundance of plentie,</l>
+               <l>Of rich jewels and wonders for to see:</l>
+               <l>They gave her one that was most worthy all,</l>
+               <l>The light of it shined on every wall.</l>
+               <l>For why it was a thing most precious,</l>
+               <l>Shining within like rubies radious,</l>
+               <l>And so without, as many one might see</l>
+               <l>A vertue had, all marvel'd what it could be,</l>
+               <l>In such a jewel, that all men marvel had</l>
+               <l>Of what sickness it hailed lass and lad,</l>
+               <l>So to be short in this my tale I tell</l>
+               <l>The famine was, the book shows wondrous leil,</l>
+               <l>Thir two was marry'd, lived in joy and bliss,</l>
+               <l>In earthly pleasure no farder could they wish,</l>
+               <l>They had delights and pleasures manifold,</l>
+               <l>In earthly things with pleasure that they would.</l>
+               <l>Of children I hear none was them between,</l>
+               <l>They wanted not what might them intertain:</l>
+               <l>At length deceast, no farder can I tell,</l>
+               <l>But I hope that they in heaven do dwell.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:59629:13"/>
+         </div>
+      </body>
+   </text>
+</TEI>
